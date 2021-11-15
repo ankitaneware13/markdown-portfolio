@@ -1,1 +1,4 @@
-g
+* dance
+* singing
+* reading
+* travelling
